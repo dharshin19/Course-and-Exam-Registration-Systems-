@@ -1,7 +1,7 @@
 # Course-Reservation-and-Exam-registration-systems
 
-## Reg No: 212225040115
-## Name: Harish P
+## Reg No: 212225240033
+## Name: DHARSHIN M
 ## Date: 02-12-2026
 
 
